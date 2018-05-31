@@ -12,7 +12,7 @@ vidPlayer = document.querySelector('video');
 vidControls = document.querySelector('.controls');
 imageBanner = document.querySelector('#houseImages');
 var muteButton = document.querySelector('#muteVideo');
-var houseName = ["stark", "baratheon", "lannister", "tully", "greyjoy", "arryn"];
+var houseName = ["stark", "baratheon", "lannister", "tully", "greyjoy", "arryn", "targaryen", "tyrell"];
 
 // functions in the middle
 
