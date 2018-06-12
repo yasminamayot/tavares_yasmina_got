@@ -31,7 +31,6 @@ main {
 #imageContainer {
 	width:600px;
 	height:360px;
-	background-color:grey;
 	margin:0 auto;
 
 	/*uncomment below to hide house banners*/
@@ -43,7 +42,7 @@ main {
 
 #bottomNav
 {
-  margin-top:30px; 
+  margin-top:30px;
 }
 
 #navList li
@@ -142,6 +141,6 @@ video {
 [data-icon]
 {
   font-size:3em;
-  color: white;
+  color: grey;
   cursor: pointer;
 }
