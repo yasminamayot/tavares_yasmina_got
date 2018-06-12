@@ -66,14 +66,7 @@ function pausePlay() {
 
 }
 // i tried my best to incorporate a mute button feature, but unfortunately couldnt figure it out
-function muteVideo() {
-  console.log ("from muteVideo");
-  if (vidPlayer.muted == true) {
-    vidPlayer.muted();
-  } else {
-   vidPlayer.muted == false;
-  }
-}
+
 
 
 
